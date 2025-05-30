@@ -1,6 +1,6 @@
-# Hive Social Network Development Guide
+# Hive Social Network Example App
 
-A comprehensive guide and working example for building social network applications on top of the Hive blockchain. This repository contains both practical documentation and a fully functional Next.js application demonstrating Hive integration.
+An app with comprehensive Memex rules for building social network applications on top of the Hive blockchain. This repository contains both practical documentation and a fully functional Next.js application demonstrating Hive integration.
 
 ## 🌐 Live Demo
 
